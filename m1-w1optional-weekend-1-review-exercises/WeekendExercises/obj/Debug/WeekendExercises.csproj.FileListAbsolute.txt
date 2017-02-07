@@ -1,0 +1,10 @@
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w1optional-weekend-1-review-exercises\WeekendExercises\bin\Debug\WeekendExercises.dll.config
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w1optional-weekend-1-review-exercises\WeekendExercises\bin\Debug\WeekendExercises.dll
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w1optional-weekend-1-review-exercises\WeekendExercises\bin\Debug\WeekendExercises.pdb
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w1optional-weekend-1-review-exercises\WeekendExercises\bin\Debug\EntityFramework.dll
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w1optional-weekend-1-review-exercises\WeekendExercises\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w1optional-weekend-1-review-exercises\WeekendExercises\bin\Debug\EntityFramework.xml
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w1optional-weekend-1-review-exercises\WeekendExercises\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w1optional-weekend-1-review-exercises\WeekendExercises\obj\Debug\WeekendExercises.csprojResolveAssemblyReference.cache
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w1optional-weekend-1-review-exercises\WeekendExercises\obj\Debug\WeekendExercises.dll
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w1optional-weekend-1-review-exercises\WeekendExercises\obj\Debug\WeekendExercises.pdb
