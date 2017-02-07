@@ -1,0 +1,5 @@
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w2d3-collections-part2-exercise\Collections.Exercises\bin\Debug\Collections.Exercises.dll
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w2d3-collections-part2-exercise\Collections.Exercises\bin\Debug\Collections.Exercises.pdb
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w2d3-collections-part2-exercise\Collections.Exercises\obj\Debug\Collections.Exercises.csprojResolveAssemblyReference.cache
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w2d3-collections-part2-exercise\Collections.Exercises\obj\Debug\Collections.Exercises.dll
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w2d3-collections-part2-exercise\Collections.Exercises\obj\Debug\Collections.Exercises.pdb
