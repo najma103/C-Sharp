@@ -1,0 +1,6 @@
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w2d4-introduction-to-classes-exercise\CompanyExercise\bin\Debug\CompanyExercise.exe.config
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w2d4-introduction-to-classes-exercise\CompanyExercise\bin\Debug\CompanyExercise.exe
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w2d4-introduction-to-classes-exercise\CompanyExercise\bin\Debug\CompanyExercise.pdb
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w2d4-introduction-to-classes-exercise\CompanyExercise\obj\Debug\CompanyExercise.csprojResolveAssemblyReference.cache
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w2d4-introduction-to-classes-exercise\CompanyExercise\obj\Debug\CompanyExercise.exe
+C:\Users\naden\workspaces\najmaaden-c-exercises\m1-w2d4-introduction-to-classes-exercise\CompanyExercise\obj\Debug\CompanyExercise.pdb
